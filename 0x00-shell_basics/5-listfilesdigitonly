@@ -1,4 +1,3 @@
 #!/bin/bash
 ls -l
 ls -al
-ls -a
